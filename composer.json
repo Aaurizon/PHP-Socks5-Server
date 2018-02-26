@@ -1,0 +1,22 @@
+{
+  "name": "assouan/socks5server",
+  "description": "SOCKS5 Server",
+  "version": "1.0.0",
+  "type": "project",
+  "authors":
+  [
+    {
+      "name": "Assouan Dinari",
+      "email": "assouan@users.noreply.github.com"
+    }
+  ],
+  "require":
+  {
+    "php": "^7.0"
+  },
+  "autoload":
+  {
+    "psr-4": { "": "scr/" }
+  },
+  "minimum-stability": "stable"
+}
